@@ -1,0 +1,151 @@
+Nom,Adresse,Date,ChiffreAffaire,NbCommandes,Support de Vente,Panier Moyen
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-01,5115.12,281,Kiosk,18.2
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-01,4809.08,217,POS,22.16
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-01,9563.69,136,Kiosk,70.32
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-01,7342.58,278,Kiosk,26.41
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-01,8015.12,148,POS,54.16
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-02,7413.16,236,Kiosk,31.41
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-02,3979.39,160,Kiosk,24.87
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-02,7329.71,115,POS,63.74
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-02,1425.29,259,Kiosk,5.5
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-02,5562.15,78,Application C&C,71.31
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-03,5288.68,185,Application C&C,28.59
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-03,5269.83,108,POS,48.79
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-03,6669.03,239,POS,27.9
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-03,5144.05,128,POS,40.19
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-03,7112.49,165,Application C&C,43.11
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-04,3819.74,196,Kiosk,19.49
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-04,7462.96,152,Kiosk,49.1
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-04,6749.09,175,Application C&C,38.57
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-04,5639.4,163,POS,34.6
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-04,7898.08,112,Kiosk,70.52
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-05,3097.85,123,Application C&C,25.19
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-05,3842.76,165,Application C&C,23.29
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-05,6686.15,144,Kiosk,46.43
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-05,9669.07,275,Kiosk,35.16
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-05,8938.37,107,POS,83.54
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-06,3077.38,163,Application C&C,18.88
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-06,7409.0,234,Application C&C,31.66
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-06,8985.68,249,Kiosk,36.09
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-06,4296.97,152,POS,28.27
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-06,1481.03,52,Application C&C,28.48
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-07,8032.63,139,Application C&C,57.79
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-07,6922.39,264,Application C&C,26.22
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-07,8879.91,160,POS,55.5
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-07,7953.57,70,POS,113.62
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-07,6776.07,127,Application C&C,53.35
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-08,5421.46,229,Kiosk,23.67
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-08,7863.94,79,Application C&C,99.54
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-08,4317.55,275,POS,15.7
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-08,4694.29,114,POS,41.18
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-08,5230.78,159,Application C&C,32.9
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-09,5425.96,132,Application C&C,41.11
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-09,4523.85,106,Application C&C,42.68
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-09,1419.0,128,POS,11.09
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-09,6133.76,140,POS,43.81
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-09,1567.4,214,POS,7.32
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-10,5305.86,55,Kiosk,96.47
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-10,5685.32,279,Kiosk,20.38
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-10,2831.07,110,Application C&C,25.74
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-10,5906.09,74,Application C&C,79.81
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-10,7222.88,88,Application C&C,82.08
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-11,4653.94,276,Kiosk,16.86
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-11,8338.88,118,Application C&C,70.67
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-11,9437.07,114,Kiosk,82.78
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-11,9146.45,133,POS,68.77
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-11,6615.9,266,Application C&C,24.87
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-12,4450.11,283,Application C&C,15.72
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-12,8057.18,221,POS,36.46
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-12,2967.7,260,Application C&C,11.41
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-12,7475.86,253,POS,29.55
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-12,3627.66,139,POS,26.1
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-13,2237.97,159,POS,14.08
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-13,6279.96,159,Kiosk,39.5
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-13,3161.51,96,Kiosk,32.93
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-13,4349.41,138,Application C&C,31.52
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-13,5514.79,174,Application C&C,31.69
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-14,8567.47,88,Application C&C,97.36
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-14,4546.08,157,Kiosk,28.96
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-14,9357.86,193,POS,48.49
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-14,4630.64,148,POS,31.29
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-14,6330.02,215,Application C&C,29.44
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-15,3126.84,67,POS,46.67
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-15,1343.26,257,POS,5.23
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-15,2877.45,232,Application C&C,12.4
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-15,5130.98,71,POS,72.27
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-15,5019.4,221,Kiosk,22.71
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-16,3072.05,134,POS,22.93
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-16,4881.71,298,Application C&C,16.38
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-16,3764.96,245,Application C&C,15.37
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-16,3466.22,62,POS,55.91
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-16,6478.48,103,Kiosk,62.9
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-17,2435.01,176,Kiosk,13.84
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-17,4495.09,118,Kiosk,38.09
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-17,8894.44,138,POS,64.45
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-17,2766.48,106,Application C&C,26.1
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-17,9558.48,108,Kiosk,88.5
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-18,3924.49,156,POS,25.16
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-18,4151.7,212,POS,19.58
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-18,3789.23,295,POS,12.84
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-18,4697.98,84,Kiosk,55.93
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-18,9104.26,229,Kiosk,39.76
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-19,7265.81,231,Application C&C,31.45
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-19,9692.15,179,Application C&C,54.15
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-19,1118.66,144,Kiosk,7.77
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-19,2352.73,241,Application C&C,9.76
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-19,6378.12,277,POS,23.03
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-20,2252.81,278,Kiosk,8.1
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-20,2966.34,245,Application C&C,12.11
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-20,8220.48,97,Application C&C,84.75
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-20,1977.23,176,Kiosk,11.23
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-20,9596.56,91,POS,105.46
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-21,6240.64,143,POS,43.64
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-21,6516.08,184,POS,35.41
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-21,2037.87,75,Application C&C,27.17
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-21,8141.99,200,Kiosk,40.71
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-21,7304.4,266,Application C&C,27.46
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-22,8728.19,237,Kiosk,36.83
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-22,5167.11,196,POS,26.36
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-22,5731.98,129,Application C&C,44.43
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-22,8818.25,122,POS,72.28
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-22,5356.08,245,Application C&C,21.86
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-23,9418.41,214,Kiosk,44.01
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-23,4594.86,175,Application C&C,26.26
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-23,9155.83,221,Application C&C,41.43
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-23,6627.69,112,Kiosk,59.18
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-23,2831.71,211,Kiosk,13.42
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-24,6205.54,172,Kiosk,36.08
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-24,9446.65,175,POS,53.98
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-24,1795.92,249,Kiosk,7.21
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-24,9919.94,91,Kiosk,109.01
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-24,9917.11,188,POS,52.75
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-25,5906.14,296,Kiosk,19.95
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-25,6286.3,226,Application C&C,27.82
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-25,8501.78,208,Kiosk,40.87
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-25,7917.76,92,Application C&C,86.06
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-25,2414.98,216,POS,11.18
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-26,6183.83,68,Application C&C,90.94
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-26,1223.42,154,POS,7.94
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-26,7812.85,93,Kiosk,84.01
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-26,2283.74,144,POS,15.86
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-26,4259.39,272,Kiosk,15.66
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-27,5552.09,281,Application C&C,19.76
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-27,7705.1,84,Kiosk,91.73
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-27,3084.9,214,Application C&C,14.42
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-27,5040.47,251,POS,20.08
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-27,5210.18,158,POS,32.98
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-28,7518.32,130,Application C&C,57.83
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-28,1853.06,273,POS,6.79
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-28,1183.78,288,Application C&C,4.11
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-28,5052.32,149,POS,33.91
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-28,6934.82,111,Kiosk,62.48
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-29,1860.7,135,Application C&C,13.78
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-29,2826.5,171,Application C&C,16.53
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-29,4911.21,115,Application C&C,42.71
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-29,1672.25,295,Kiosk,5.67
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-29,2114.04,142,POS,14.89
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-30,8345.19,163,Kiosk,51.2
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-30,9236.74,221,Application C&C,41.8
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-30,6345.54,252,Kiosk,25.18
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-30,9562.59,278,Application C&C,34.4
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-30,8648.38,244,Application C&C,35.44

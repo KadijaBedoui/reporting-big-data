@@ -1,0 +1,436 @@
+Nom,Adresse,Date,Produit,Chiffre Affaire,Nombre Commandes,Panier moyen
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-01,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-01,Crevette,450,30,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-01,Steak,800,40,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-02,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-02,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-02,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-03,Crevette,2400,80,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-03,Steak,1600,80,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-04,Pizza,3200,80,40
+YummyFoodTunis,Ave Charles Nicolle,2024-10-04,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-04,Salade,600,60,10
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-05,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-05,Crevette,1800,60,30
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-05,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-06,Pizza,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-06,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-06,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-07,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-07,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-08,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-08,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-08,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-09,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-09,Crevette,450,30,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-09,Steak,800,40,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-10,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-10,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-10,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-11,Crevette,2400,80,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-11,Steak,1600,80,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-12,Pizza,3200,80,40
+YummyFoodTunis,Ave Charles Nicolle,2024-10-12,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-12,Salade,600,60,10
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-13,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-13,Crevette,1800,60,30
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-13,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-14,Pizza,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-14,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-14,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-15,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-15,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-16,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-16,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-16,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-17,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-17,Crevette,450,30,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-17,Steak,800,40,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-18,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-18,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-18,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-19,Crevette,2400,80,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-19,Steak,1600,80,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-20,Pizza,3200,80,40
+YummyFoodTunis,Ave Charles Nicolle,2024-10-20,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-20,Salade,600,60,10
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-21,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-21,Crevette,1800,60,30
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-21,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-22,Pizza,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-22,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-22,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-23,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-23,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-24,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-24,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-24,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-25,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-25,Crevette,450,30,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-25,Steak,800,40,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-26,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-26,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-26,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-27,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-27,Crevette,1800,60,30
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-27,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-28,Pizza,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-28,Burger,4000,80,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-28,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-29,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-10-29,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-30,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-30,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-10-30,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-31,Burger,2500,50,50
+YummyFoodTunis,Ave Charles Nicolle,2024-10-31,Crevette,450,30,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-10-31,Steak,800,40,20
+
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-01,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-01,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-01,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-02,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-02,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-02,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-03,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-03,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-03,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-04,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-04,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-04,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-05,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-05,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-05,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-06,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-06,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-06,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-07,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-07,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-07,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-08,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-08,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-08,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-09,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-09,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-09,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-10,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-10,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-10,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-11,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-11,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-11,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-12,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-12,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-12,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-13,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-13,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-13,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-14,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-14,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-14,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-15,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-15,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-15,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-16,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-16,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-16,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-17,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-17,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-17,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-18,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-18,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-18,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-19,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-19,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-19,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-20,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-20,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-20,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-21,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-21,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-21,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-22,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-22,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-22,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-23,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-23,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-23,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-24,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-24,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-24,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-25,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-25,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-25,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-26,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-26,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-26,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-27,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-27,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-27,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-28,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-28,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-28,Steak,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-29,Crevette,2400,80,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-29,Steak,1600,80,20
+YummyFoodSousse,Rue Des Tisserants,2024-10-29,Pizza,3200,80,40
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-30,Burger,2500,50,50
+YummyFoodSousse,Avenue Mongi Slim,2024-10-30,Crevette,450,30,15
+YummyFoodSousse,Rue Des Tisserants,2024-10-30,Salade,800,40,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-31,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-10-31,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-10-31,Steak,1200,60,20
+
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-01,Burger,4000,80,50
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-01,Crevette,1200,80,15
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-01,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-02,Pizza,1800,60,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-02,Burger,3000,100,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-02,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-03,Burger,4000,80,50
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-03,Crevette,1200,80,15
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-03,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-04,Pizza,1800,60,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-04,Burger,3000,100,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-04,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-05,Crevette,2400,80,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-05,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-05,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-06,Burger,4000,80,50
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-06,Crevette,1200,80,15
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-06,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-07,Pizza,1800,60,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-07,Burger,3000,100,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-07,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-08,Crevette,2400,80,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-08,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-08,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-09,Burger,4000,80,50
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-09,Crevette,1200,80,15
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-09,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-10,Pizza,1800,60,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-10,Burger,3000,100,30
+YummyFoodSfax,Rue Ahmed Alouloux,2024-10-10,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-11,Crevette,2400,80,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-11,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-11,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-12,Burger,4000,80,50
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-12,Crevette,1200,80,15
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-12,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-13,Pizza,1800,60,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-13,Burger,3000,100,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-13,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-14,Crevette,2400,80,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-14,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-14,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-15,Burger,4000,80,50
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-15,Crevette,1200,80,15
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-15,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-16,Pizza,1800,60,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-16,Burger,3000,100,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-16,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-17,Crevette,2400,80,30
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-17,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-17,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-18,Burger,4000,80,50
+YummyFoodSfax,Sfax,2024-10-18,Crevette,1200,80,15
+YummyFoodSfax,Sfax,2024-10-18,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-19,Pizza,1800,60,30
+YummyFoodSfax,Sfax,2024-10-19,Burger,3000,100,30
+YummyFoodSfax,Sfax,2024-10-19,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-20,Crevette,2400,80,30
+YummyFoodSfax,Sfax,2024-10-20,Steak,1600,80,20
+YummyFoodSfax,Sfax,2024-10-20,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-21,Burger,4000,80,50
+YummyFoodSfax,Sfax,2024-10-21,Crevette,1200,80,15
+YummyFoodSfax,Sfax,2024-10-21,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-22,Pizza,1800,60,30
+YummyFoodSfax,Sfax,2024-10-22,Burger,3000,100,30
+YummyFoodSfax,Sfax,2024-10-22,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-23,Crevette,2400,80,30
+YummyFoodSfax,Sfax,2024-10-23,Steak,1600,80,20
+YummyFoodSfax,Sfax,2024-10-23,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-24,Burger,4000,80,50
+YummyFoodSfax,Sfax,2024-10-24,Crevette,1200,80,15
+YummyFoodSfax,Sfax,2024-10-24,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-25,Pizza,1800,60,30
+YummyFoodSfax,Sfax,2024-10-25,Burger,3000,100,30
+YummyFoodSfax,Sfax,2024-10-25,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-26,Crevette,2400,80,30
+YummyFoodSfax,Sfax,2024-10-26,Steak,1600,80,20
+YummyFoodSfax,Sfax,2024-10-26,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-27,Burger,4000,80,50
+YummyFoodSfax,Sfax,2024-10-27,Crevette,1200,80,15
+YummyFoodSfax,Sfax,2024-10-27,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-28,Pizza,1800,60,30
+YummyFoodSfax,Sfax,2024-10-28,Burger,3000,100,30
+YummyFoodSfax,Sfax,2024-10-28,Steak,1600,80,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-29,Crevette,2400,80,30
+YummyFoodSfax,Sfax,2024-10-29,Steak,1600,80,20
+YummyFoodSfax,Sfax,2024-10-29,Pizza,3200,80,40
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-30,Burger,4000,80,50
+YummyFoodSfax,Sfax,2024-10-30,Crevette,1200,80,15
+YummyFoodSfax,Sfax,2024-10-30,Salade,1200,60,20
+YummyFoodSfax,Rue Ahmed Aloulou,2024-10-31,Pizza,1800,60,30
+YummyFoodSfax,Sfax,2024-10-31,Burger,3000,100,30
+YummyFoodSfax,Sfax,2024-10-31,Steak,1600,80,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-01,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-01,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-01,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-02,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-02,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-02,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-03,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-03,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-03,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-04,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-04,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-04,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-05,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-05,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-05,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-06,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-06,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-06,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-07,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-07,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-07,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-08,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-08,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-08,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-09,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-09,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-09,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-10,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-10,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-10,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-11,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-11,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-11,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-12,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-12,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-12,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-13,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-13,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-13,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-14,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-14,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-14,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-15,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-15,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-15,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-16,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-16,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-16,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-17,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-17,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-17,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-18,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-18,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-18,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-19,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-19,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-19,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-20,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-20,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-20,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-21,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-21,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-21,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-22,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-22,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-22,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-23,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-23,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-23,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-24,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-24,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-24,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-25,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-25,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-25,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-26,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-26,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-26,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-27,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-27,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-27,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-28,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-28,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-28,Salade,1200,60,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-29,Pizza,1800,60,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-29,Burger,3000,100,30
+YummyFoodTunis,Ave Charles Nicolle,2024-11-29,Steak,1500,100,15
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-30,Crevette,2400,120,20
+YummyFoodTunis,Ave Charles Nicolle,2024-11-30,Steak,1800,90,20
+YummyFoodTunis,Rue Azzouz Rebai,2024-11-30,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-01,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-01,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-01,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-02,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-02,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-02,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-03,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-03,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-03,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-04,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-04,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-04,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-05,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-05,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-05,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-06,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-06,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-06,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-07,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-07,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-07,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-08,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-08,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-08,Steak,1500,100,15
+YummyFoodSousse,Rue Des Tisserants,2024-11-15,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-16,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-16,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-16,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-17,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-17,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-17,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-18,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-18,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-18,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-19,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-19,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-19,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-20,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-20,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-20,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-21,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-21,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-21,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-22,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-22,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-22,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-23,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-23,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-23,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-24,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-24,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-24,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-25,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-25,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-25,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-26,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-26,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-26,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-27,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-27,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-27,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-28,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-28,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-28,Steak,1500,100,15
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-29,Crevette,2400,120,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-29,Steak,1800,90,20
+YummyFoodSousse,Rue Des Tisserants,2024-11-29,Salade,1200,60,20
+YummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-11-30,Pizza,1800,60,30
+YummyFoodSousse,Avenue Mongi Slim,2024-11-30,Burger,3000,100,30
+YummyFoodSousse,Rue Des Tisserants,2024-11-30,Steak,1500,100,15
+

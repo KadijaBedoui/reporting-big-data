@@ -1,0 +1,151 @@
+Nom,Adresse,Date,ChiffreAffaire,NbCommandes,Mode de Vente,Panier Moyen
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-01,8606.64,122,Sur place,70.55
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-01,2093.73,228,A emporter,9.18
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-01,2989.08,227,Sur place,13.17
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-01,4507.17,158,Sur place,28.53
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-01,5818.96,131,A emporter,44.42
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-02,6984.85,263,A emporter,26.56
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-02,9242.8,64,Sur place,144.42
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-02,1413.3,212,A emporter,6.67
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-02,4060.6,242,Sur place,16.78
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-02,9184.51,271,A emporter,33.89
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-03,6022.54,242,Sur place,24.89
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-03,3119.32,178,A emporter,17.52
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-03,5812.9,153,Sur place,37.99
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-03,2834.3,220,Sur place,12.88
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-03,2749.47,132,A emporter,20.83
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-04,1290.38,180,Sur place,7.17
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-04,7412.22,297,Sur place,24.96
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-04,7597.16,65,A emporter,116.88
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-04,7094.34,165,A emporter,43.0
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-04,1072.42,115,Sur place,9.33
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-05,3572.16,68,Sur place,52.53
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-05,1066.88,176,Sur place,6.06
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-05,5873.47,179,Sur place,32.81
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-05,3807.16,93,Sur place,40.94
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-05,1410.82,203,Sur place,6.95
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-06,9419.78,63,Sur place,149.52
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-06,7688.42,126,A emporter,61.02
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-06,3246.59,119,A emporter,27.28
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-06,1320.7,79,Sur place,16.72
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-06,6990.65,249,A emporter,28.07
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-07,8434.96,260,Sur place,32.44
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-07,9207.88,258,A emporter,35.69
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-07,5958.78,273,Sur place,21.83
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-07,5503.52,51,A emporter,107.91
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-07,2724.46,65,Sur place,41.91
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-08,8120.56,143,A emporter,56.79
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-08,8219.4,284,A emporter,28.94
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-08,4073.51,92,A emporter,44.28
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-08,7412.08,220,Sur place,33.69
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-08,6719.96,243,Sur place,27.65
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-09,9659.95,212,A emporter,45.57
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-09,7352.69,143,A emporter,51.42
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-09,4635.61,241,A emporter,19.23
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-09,7042.1,274,A emporter,25.7
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-09,4467.7,240,A emporter,18.62
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-10,6745.2,199,A emporter,33.9
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-10,6094.6,138,Sur place,44.16
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-10,9752.38,125,Sur place,78.02
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-10,3266.57,279,Sur place,11.71
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-10,1055.13,199,Sur place,5.3
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-11,9089.45,206,A emporter,44.12
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-11,8439.77,58,Sur place,145.51
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-11,1335.18,296,A emporter,4.51
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-11,4912.43,68,Sur place,72.24
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-11,3340.78,246,A emporter,13.58
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-12,1665.46,300,Sur place,5.55
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-12,9826.18,59,Sur place,166.55
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-12,7458.31,224,A emporter,33.3
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-12,2476.94,81,Sur place,30.58
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-12,2569.77,189,A emporter,13.6
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-13,1691.71,155,A emporter,10.91
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-13,1714.66,153,Sur place,11.21
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-13,8873.43,70,Sur place,126.76
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-13,3494.13,72,A emporter,48.53
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-13,8791.98,244,A emporter,36.03
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-14,1940.89,210,A emporter,9.24
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-14,6141.41,93,A emporter,66.04
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-14,9594.5,143,A emporter,67.09
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-14,2082.87,65,A emporter,32.04
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-14,5850.07,155,A emporter,37.74
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-15,1685.18,288,A emporter,5.85
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-15,2964.37,53,A emporter,55.93
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-15,6122.54,110,Sur place,55.66
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-15,1182.11,198,Sur place,5.97
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-15,7080.4,295,Sur place,24.0
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-16,8436.21,55,Sur place,153.39
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-16,8643.98,164,A emporter,52.71
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-16,8467.08,251,Sur place,33.73
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-16,4014.6,171,Sur place,23.48
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-16,4183.2,190,Sur place,22.02
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-17,9072.05,126,A emporter,72.0
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-17,4618.52,225,Sur place,20.53
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-17,5681.98,293,Sur place,19.39
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-17,8898.45,80,A emporter,111.23
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-17,8583.62,130,A emporter,66.03
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-18,4714.81,233,Sur place,20.24
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-18,8962.74,148,Sur place,60.56
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-18,4029.2,244,Sur place,16.51
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-18,2701.15,234,Sur place,11.54
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-18,8785.7,198,A emporter,44.37
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-19,7237.66,143,Sur place,50.61
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-19,5651.31,249,Sur place,22.7
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-19,7571.65,257,Sur place,29.46
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-19,7684.59,266,Sur place,28.89
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-19,9166.81,180,A emporter,50.93
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-20,1046.51,220,A emporter,4.76
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-20,7445.78,149,Sur place,49.97
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-20,4494.19,58,A emporter,77.49
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-20,5530.33,58,A emporter,95.35
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-20,2382.23,234,Sur place,10.18
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-21,2758.67,225,A emporter,12.26
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-21,5717.95,256,Sur place,22.34
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-21,3407.94,51,A emporter,66.82
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-21,1439.66,147,A emporter,9.79
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-21,9734.38,168,A emporter,57.94
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-22,7736.92,256,A emporter,30.22
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-22,4028.59,275,A emporter,14.65
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-22,2327.41,265,A emporter,8.78
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-22,7933.42,143,Sur place,55.48
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-22,4232.78,230,A emporter,18.4
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-23,8859.65,114,A emporter,77.72
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-23,6364.13,67,A emporter,94.99
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-23,6263.23,273,A emporter,22.94
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-23,9075.29,220,A emporter,41.25
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-23,9447.84,60,A emporter,157.46
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-24,3007.79,95,Sur place,31.66
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-24,7600.76,81,Sur place,93.84
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-24,6708.5,240,A emporter,27.95
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-24,6939.98,143,Sur place,48.53
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-24,1779.39,61,A emporter,29.17
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-25,7055.81,201,Sur place,35.1
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-25,5864.05,268,Sur place,21.88
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-25,6061.81,195,A emporter,31.09
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-25,4366.55,221,A emporter,19.76
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-25,2532.9,285,A emporter,8.89
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-26,5394.54,55,Sur place,98.08
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-26,4095.04,264,A emporter,15.51
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-26,5666.87,99,A emporter,57.24
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-26,1902.15,257,Sur place,7.4
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-26,4148.85,268,A emporter,15.48
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-27,7132.15,224,Sur place,31.84
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-27,2811.71,180,Sur place,15.62
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-27,6491.19,168,A emporter,38.64
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-27,6016.3,131,Sur place,45.93
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-27,6904.63,178,A emporter,38.79
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-28,3034.18,243,Sur place,12.49
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-28,3831.52,90,Sur place,42.57
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-28,7193.33,262,A emporter,27.46
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-28,2715.4,55,A emporter,49.37
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-28,7268.23,124,Sur place,58.61
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-29,8246.83,161,A emporter,51.22
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-29,8072.2,62,A emporter,130.2
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-29,1106.2,103,A emporter,10.74
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-29,5714.88,83,A emporter,68.85
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-29,4742.9,164,Sur place,28.92
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-30,2084.92,105,A emporter,19.86
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-30,1797.95,92,Sur place,19.54
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-30,2307.08,112,Sur place,20.6
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-30,2057.55,188,Sur place,10.94
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-30,3477.27,275,Sur place,12.64

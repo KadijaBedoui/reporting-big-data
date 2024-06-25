@@ -1,0 +1,151 @@
+NomEmployeur,Nom,Adresse,Date,ChiffreAffaire,NbCommandes,Panier Moyen
+Connor Hatfield,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-01,1940.03,221,8.78
+Sean Kennedy,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-01,3005.08,257,11.69
+Beverly Rojas,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-01,1825.46,80,22.82
+Christopher Ruiz,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-01,1918.12,296,6.48
+Denise Guzman,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-01,5364.97,125,42.92
+Heather Mitchell,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-02,1158.59,243,4.77
+Brian Burgess,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-02,1672.27,187,8.94
+Carla Lee,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-02,9866.39,146,67.58
+Colin Elliott,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-02,8296.4,114,72.78
+Zachary Powell,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-02,4454.48,214,20.82
+Darryl Chaney,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-03,6734.36,279,24.14
+Lauren Thomas,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-03,5158.46,289,17.85
+Angela Young,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-03,9083.32,265,34.28
+Brian Mueller,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-03,5271.01,63,83.67
+Cynthia Ford,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-03,8668.52,115,75.38
+Maria Franklin,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-04,2689.07,200,13.45
+Mikayla Lucas,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-04,8167.56,264,30.94
+Erica Crane,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-04,2286.49,265,8.63
+Evan Sexton,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-04,3457.25,192,18.01
+Dennis Walsh,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-04,1849.92,136,13.6
+Christopher Brown,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-05,7871.86,133,59.19
+Virginia Steele,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-05,9070.3,149,60.87
+Jason Lewis,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-05,6431.17,196,32.81
+Mark Walker,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-05,8511.03,191,44.56
+Ariel Medina,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-05,3089.73,64,48.28
+Sarah Flynn,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-06,2454.29,219,11.21
+Joseph Pham,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-06,3666.3,222,16.51
+Monica James,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-06,6516.65,115,56.67
+Nicholas Wright,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-06,4100.88,172,23.84
+Janet Cooper,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-06,7308.23,271,26.97
+Alisha Dillon,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-07,2055.96,217,9.47
+Jasmine Macdonald,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-07,7431.85,110,67.56
+Tyler Becker,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-07,5803.4,241,24.08
+Hunter Ochoa,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-07,2715.14,260,10.44
+Jeremy Moore,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-07,8421.15,154,54.68
+Deborah Walker,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-08,3844.66,209,18.4
+Robert Travis,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-08,3376.11,99,34.1
+Leslie Fuller,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-08,3634.05,111,32.74
+Alyssa Hendrix,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-08,3888.77,128,30.38
+Robert Blankenship,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-08,1077.01,51,21.12
+Margaret Meyer,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-09,9061.14,112,80.9
+David Turner,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-09,5245.19,214,24.51
+Rachael Garcia,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-09,4014.32,208,19.3
+Ann Graham,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-09,8769.14,214,40.98
+Joseph Stevenson,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-09,3463.19,94,36.84
+Tonya Rubio,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-10,5036.3,74,68.06
+Hunter Marquez,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-10,7542.55,151,49.95
+Shannon Boyle,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-10,3249.53,57,57.01
+Charles Farmer,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-10,5514.13,140,39.39
+Jason Allen,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-10,4374.91,80,54.69
+Ryan Gonzalez,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-11,4305.6,97,44.39
+Daniel Sutton,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-11,8088.65,158,51.19
+Dale Collins,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-11,3757.0,281,13.37
+Carmen Vincent,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-11,6442.59,292,22.06
+Glenda Gill,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-11,9278.92,217,42.76
+Brian Fields,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-12,7047.28,220,32.03
+Angela Reese,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-12,5351.36,143,37.42
+Wendy Herrera,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-12,1668.72,151,11.05
+Shelly Perkins,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-12,3892.26,125,31.14
+Jeffery Sanders,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-12,1309.07,226,5.79
+Bruce Lowe,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-13,6559.01,280,23.43
+Brandon Dorsey,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-13,3518.7,144,24.44
+Debra Goodman,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-13,5265.45,118,44.62
+Lynn Preston,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-13,1559.26,104,14.99
+Susan Schmitt,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-13,3228.49,213,15.16
+Kristin Torres,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-14,4216.99,58,72.71
+Paul Webb,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-14,5411.22,216,25.05
+Michael Jimenez,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-14,3016.48,70,43.09
+Adrian Harris,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-14,4271.24,258,16.56
+Bonnie Rodriguez,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-14,4782.0,219,21.84
+Aaron Moore,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-15,9359.46,80,116.99
+Melissa Griffin,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-15,3415.73,268,12.75
+Alexander Chang,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-15,3433.32,93,36.92
+Tracy Gonzales,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-15,9191.14,186,49.41
+Tina Cole,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-15,1712.36,223,7.68
+Theresa Welch,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-16,3083.92,98,31.47
+Brandi Hickman,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-16,1792.69,267,6.71
+Meghan Riggs,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-16,2809.28,300,9.36
+Carly Hill,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-16,2771.31,209,13.26
+James Garcia,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-16,7810.53,284,27.5
+Pamela Cruz,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-17,4276.18,207,20.66
+Jason Graham,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-17,8227.08,281,29.28
+Calvin Harris,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-17,1803.45,130,13.87
+Heather Black,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-17,2073.66,259,8.01
+Nathaniel Perez,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-17,9029.46,145,62.27
+Casey Cain,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-18,8238.21,203,40.58
+James Perez,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-18,8132.51,187,43.49
+Steve Chambers,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-18,7253.49,117,62.0
+Tina Peterson,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-18,5600.81,154,36.37
+Anthony Wilson,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-18,8683.37,190,45.7
+Gene Rodriguez,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-19,2255.7,131,17.22
+Michele Bryant,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-19,1658.13,151,10.98
+Wayne Johnson,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-19,3269.23,260,12.57
+Joshua Dunlap,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-19,7492.05,74,101.24
+Jenna Greer,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-19,5120.39,257,19.92
+Dana Clark,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-20,6024.9,128,47.07
+Craig Brown,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-20,2481.53,153,16.22
+Barbara James,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-20,2903.89,165,17.6
+Roy Green,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-20,5406.36,139,38.89
+Amanda Brennan,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-20,1529.58,56,27.31
+Kenneth Cannon,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-21,9487.04,274,34.62
+Amanda Kelly,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-21,5784.11,138,41.91
+Nicholas Henderson,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-21,3855.66,224,17.21
+Amanda Hunt,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-21,7924.69,111,71.39
+Jacqueline Rice,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-21,7848.82,232,33.83
+Megan Roberson,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-22,5495.92,244,22.52
+Nathaniel Doyle,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-22,9832.95,116,84.77
+Misty Price,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-22,1250.8,290,4.31
+Ethan Bradley,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-22,3148.71,53,59.41
+Julie Osborn,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-22,8689.11,98,88.66
+Larry Brown,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-23,1916.84,198,9.68
+Julie Davis,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-23,5203.66,94,55.36
+Juan Turner,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-23,5836.82,142,41.1
+Dennis Davis,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-23,8810.45,264,33.37
+David Adkins,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-23,3371.0,147,22.93
+Nicholas Chen,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-24,4790.49,232,20.65
+Louis Cummings,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-24,5081.92,260,19.55
+Rebecca Burns,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-24,5996.61,274,21.89
+Teresa Thompson,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-24,2143.64,253,8.47
+Amanda Parker,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-24,1415.52,281,5.04
+Jonathan Wiggins,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-25,3639.8,264,13.79
+Randall Edwards,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-25,7505.25,279,26.9
+Christine Rogers,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-25,8489.83,55,154.36
+Amanda Gordon,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-25,9143.94,72,127.0
+Crystal Owens,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-25,9121.53,293,31.13
+Dominique Chavez,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-26,9230.07,124,74.44
+Steven Moore,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-26,5779.01,58,99.64
+Jennifer Aguilar,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-26,1753.4,251,6.99
+John Pruitt,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-26,5737.85,106,54.13
+Michael Collins,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-26,1301.76,139,9.37
+Carolyn Strickland,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-27,2515.18,97,25.93
+Beverly Hawkins,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-27,8527.5,68,125.4
+James Jennings,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-27,4957.6,171,28.99
+Pamela Burke,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-27,1054.1,295,3.57
+Heidi White,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-27,5878.46,248,23.7
+Phillip Lang,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-28,3991.17,61,65.43
+Patrick Wilson,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-28,8507.36,288,29.54
+Denise Rhodes,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-28,9981.08,199,50.16
+Michael Rodriguez,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-28,1394.64,53,26.31
+Samuel Campbell,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-28,6575.18,161,40.84
+Kenneth Case,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-29,3183.81,195,16.33
+Martha Love,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-29,3755.44,292,12.86
+Carlos Mcmillan,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-29,7236.88,149,48.57
+John Cameron,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-29,1686.38,173,9.75
+Jeff Dudley,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-29,9997.73,206,48.53
+Manuel York,Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-30,8666.81,197,43.99
+Craig Pittman,Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-30,9008.36,171,52.68
+Wendy Mcdonald,Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-30,7803.57,208,37.52
+Katie Garrison,El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-30,8205.42,53,154.82
+Joe Duran,Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-30,5267.24,246,21.41

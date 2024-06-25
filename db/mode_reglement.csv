@@ -1,0 +1,240 @@
+Nom,Adresse,Date, Chiffre Affaire,Nombre Commandes,Panier moyen, mode de paiment 
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-01,110,55,160, PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-01,110,55,160, PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-01,110,55,160, PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-01,115,60,165 ,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-01,115,60,165 ,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-01,115,60,165 ,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-01,120,65,170, PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-01,120,65,170, PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-01,120,65,170, PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-01,110,55,160, PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-01,110,55,160, PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-01,110,55,160, PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-01,115,60,165 ,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-01,115,60,165 ,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-01,115,60,165 ,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-01,120,65,170, PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-01,120,65,170, PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-01,120,65,170, PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-01,120,65,170, PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-01,120,65,170, PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-01,120,65,170, PaymentsCash
+Nom,Adresse,Date,Chiffre Affaire,Nombre Commandes,Panier moyen,mode de paiement
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-02,105,50,210,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-02,105,50,210,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-02,105,50,210,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-02,112,55,204,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-02,112,55,204,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-02,112,55,204,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-02,115,60,192,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-02,115,60,192,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-02,115,60,192,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-03,108,52,208,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-03,108,52,208,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-03,108,52,208,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-03,115,58,200,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-03,115,58,200,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-03,115,58,200,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-03,120,62,194,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-03,120,62,194,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-03,120,62,194,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-04,110,54,203,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-04,110,54,203,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-04,110,54,203,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-04,118,60,197,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-04,118,60,197,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-04,118,60,197,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-04,125,65,190,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-04,125,65,190,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-04,125,65,190,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-05,112,56,201,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-05,112,56,201,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-05,112,56,201,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-05,120,62,193,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-05,120,62,193,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-05,120,62,193,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-05,128,68,186,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-05,128,68,186,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-05,128,68,186,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-06,115,58,198,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-06,115,58,198,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-06,115,58,198,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-06,125,64,192,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-06,125,64,192,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-06,125,64,192,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-06,132,70,180,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-06,132,70,180,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-06,132,70,180,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-07,118,60,195,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-07,118,60,195,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-07,118,60,195,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-07,130,66,182,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-07,130,66,182,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-07,130,66,182,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-07,136,72,175,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-07,136,72,175,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-07,136,72,175,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-08,120,62,193,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-08,120,62,193,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-08,120,62,193,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-08,135,68,185,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-08,135,68,185,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-08,135,68,185,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-08,140,74,178,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-08,140,74,178,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-08,140,74,178,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-09,122,64,190,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-09,122,64,190,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-09,122,64,190,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-09,140,70,180,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-09,140,70,180,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-09,140,70,180,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-09,145,76,173,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-09,145,76,173,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-09,145,76,173,PaymentsCash
+
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-10,125,66,188,PaymentsFidelite
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-10,125,66,188,PaymentsCash
+yummyFoodTunis,Rue Azzouz Rebai,2024-10-10,125,66,188,PaymentsCarte
+yummyFoodTunis,Ave Charles Nicolle,2024-10-10,145,72,175,PaymentsFidelite
+yummyFoodTunis,Ave Charles Nicolle,2024-10-10,145,72,175,PaymentsCash
+yummyFoodTunis,Ave Charles Nicolle,2024-10-10,145,72,175,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-10,150,78,170,PaymentsFidelite
+yummyFoodTunis,Rue de Palestine 1002,2024-10-10,150,78,170,PaymentsCarte
+yummyFoodTunis,Rue de Palestine 1002,2024-10-10,150,78,170,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-02,100,45,222,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-02,100,45,222,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-02,100,45,222,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-02,108,50,216,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-02,108,50,216,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-02,108,50,216,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-02,112,55,204,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-02,112,55,204,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-02,112,55,204,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-03,105,48,215,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-03,105,48,215,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-03,105,48,215,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-03,112,52,210,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-03,112,52,210,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-03,112,52,210,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-03,115,56,205,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-03,115,56,205,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-03,115,56,205,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-04,110,50,220,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-04,110,50,220,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-04,110,50,220,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-04,118,54,215,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-04,118,54,215,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-04,118,54,215,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-04,120,58,210,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-04,120,58,210,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-04,120,58,210,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-05,115,52,225,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-05,115,52,225,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-05,115,52,225,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-05,122,56,220,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-05,122,56,220,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-05,122,56,220,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-05,125,60,215,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-05,125,60,215,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-05,125,60,215,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-06,120,54,230,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-06,120,54,230,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-06,120,54,230,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-06,128,58,225,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-06,128,58,225,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-06,128,58,225,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-06,130,62,220,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-06,130,62,220,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-06,130,62,220,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-07,125,56,235,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-07,125,56,235,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-07,125,56,235,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-07,132,60,230,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-07,132,60,230,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-07,132,60,230,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-07,135,64,225,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-07,135,64,225,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-07,135,64,225,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-08,128,58,240,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-08,128,58,240,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-08,128,58,240,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-08,135,62,235,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-08,135,62,235,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-08,135,62,235,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-08,140,66,230,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-08,140,66,230,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-08,140,66,230,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-09,130,60,245,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-09,130,60,245,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-09,130,60,245,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-09,140,64,240,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-09,140,64,240,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-09,140,64,240,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-09,145,68,235,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-09,145,68,235,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-09,145,68,235,PaymentsCash
+
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-10,135,62,250,PaymentsFidelite
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-10,135,62,250,PaymentsCash
+yummyFoodSousse,Movenpick Resort & Marine Spa Sousse Boulevard Du 14 Janvier,2024-10-10,135,62,250,PaymentsCarte
+yummyFoodSousse,Avenue Mongi Slim,2024-10-10,145,66,245,PaymentsFidelite
+yummyFoodSousse,Avenue Mongi Slim,2024-10-10,145,66,245,PaymentsCash
+yummyFoodSousse,Avenue Mongi Slim,2024-10-10,145,66,245,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-10,150,70,240,PaymentsFidelite
+yummyFoodSousse,Rue Des Tisserants,2024-10-10,150,70,240,PaymentsCarte
+yummyFoodSousse,Rue Des Tisserants,2024-10-10,150,70,240,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-02,115,60,192,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-02,115,60,192,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-02,115,60,192,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-03,120,62,194,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-03,120,62,194,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-03,120,62,194,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-04,125,65,190,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-04,125,65,190,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-04,125,65,190,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-05,128,68,186,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-05,128,68,186,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-05,128,68,186,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-06,132,70,180,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-06,132,70,180,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-06,132,70,180,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-07,136,72,175,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-07,136,72,175,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-07,136,72,175,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-08,140,74,178,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-08,140,74,178,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-08,140,74,178,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-09,145,76,173,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-09,145,76,173,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-09,145,76,173,PaymentsCash
+
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-10,150,78,170,PaymentsFidelite
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-10,150,78,170,PaymentsCarte
+yummyFoodSfax,Rue Ahmed Aloulou,2024-10-10,150,78,170,PaymentsCash

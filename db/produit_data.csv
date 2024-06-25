@@ -1,0 +1,151 @@
+Nom,Adresse,Date,Produit,TypeProduit,Chiffre Affaire,Nombre Commandes,Panier Moyen
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-01,Sushi,seafood,9920.72,205,48.39
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-01,Poisson grillé,seafood,8940.44,259,34.52
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-01,Pizza,fastfood,1145.35,271,4.23
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-01,Steak,traditionalfood,4463.09,122,36.58
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-01,Salade,healthy,3046.52,285,10.69
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-02,Burger,fastfood,9462.72,299,31.65
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-02,Sushi,seafood,9312.14,285,32.67
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-02,Steak,traditionalfood,9118.66,296,30.81
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-02,Salade,healthy,5223.34,292,17.89
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-02,Sandwich,fastfood,9366.37,300,31.22
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-03,Salade,healthy,4035.09,92,43.86
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-03,Sushi,seafood,9713.29,105,92.51
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-03,Steak,traditionalfood,7536.49,120,62.8
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-03,Sandwich,fastfood,7221.51,177,40.8
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-03,Steak,traditionalfood,9604.58,202,47.55
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-04,Taco,fastfood,6344.1,266,23.85
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-04,Steak,traditionalfood,6444.23,105,61.37
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-04,Salade,healthy,3412.37,253,13.49
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-04,Pasta,traditionalfood,7075.91,150,47.17
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-04,Sushi,seafood,1648.06,276,5.97
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-05,Sushi,seafood,6111.3,64,95.49
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-05,Pasta,traditionalfood,7138.5,69,103.46
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-05,Sushi,seafood,3154.45,276,11.43
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-05,Pasta,traditionalfood,7225.29,150,48.17
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-05,Pasta,traditionalfood,1748.54,117,14.94
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-06,Sandwich,fastfood,7259.51,132,55.0
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-06,Pizza,fastfood,5036.75,295,17.07
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-06,Pizza,fastfood,7414.85,229,32.38
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-06,Pasta,traditionalfood,7526.95,213,35.34
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-06,Sushi,seafood,8711.98,278,31.34
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-07,Poisson grillé,seafood,9092.55,151,60.22
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-07,Pasta,traditionalfood,3669.19,202,18.16
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-07,Taco,fastfood,9980.39,251,39.76
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-07,Burger,fastfood,7662.38,188,40.76
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-07,Burger,fastfood,1205.11,250,4.82
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-08,Poisson grillé,seafood,7302.59,142,51.43
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-08,Steak,traditionalfood,6027.82,177,34.06
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-08,Taco,fastfood,1529.46,277,5.52
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-08,Poisson grillé,seafood,3200.01,210,15.24
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-08,Poulet rôti,traditionalfood,5884.57,136,43.27
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-09,Pizza,fastfood,8475.12,153,55.39
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-09,Poulet rôti,traditionalfood,6812.75,78,87.34
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-09,Poisson grillé,seafood,6610.93,242,27.32
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-09,Poulet rôti,traditionalfood,3622.27,278,13.03
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-09,Poisson grillé,seafood,2676.6,78,34.32
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-10,Taco,fastfood,4348.22,216,20.13
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-10,Burger,fastfood,5835.45,58,100.61
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-10,Taco,fastfood,6045.16,253,23.89
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-10,Pizza,fastfood,8165.83,67,121.88
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-10,Sandwich,fastfood,9131.79,99,92.24
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-11,Burger,fastfood,2643.8,66,40.06
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-11,Pasta,traditionalfood,8795.37,237,37.11
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-11,Poisson grillé,seafood,5493.84,282,19.48
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-11,Steak,traditionalfood,6819.43,54,126.29
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-11,Pasta,traditionalfood,6330.65,93,68.07
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-12,Poulet rôti,traditionalfood,7727.24,160,48.3
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-12,Steak,traditionalfood,8886.18,256,34.71
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-12,Poisson grillé,seafood,2601.8,223,11.67
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-12,Taco,fastfood,5264.65,157,33.53
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-12,Burger,fastfood,9038.0,260,34.76
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-13,Sushi,seafood,2891.37,133,21.74
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-13,Sushi,seafood,7568.69,100,75.69
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-13,Salade,healthy,1449.07,56,25.88
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-13,Poisson grillé,seafood,1726.99,257,6.72
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-13,Steak,traditionalfood,3125.0,210,14.88
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-14,Poulet rôti,traditionalfood,5838.86,255,22.9
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-14,Pasta,traditionalfood,2600.0,142,18.31
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-14,Sushi,seafood,1547.76,157,9.86
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-14,Pasta,traditionalfood,3524.61,293,12.03
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-14,Poulet rôti,traditionalfood,3473.49,286,12.15
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-15,Pasta,traditionalfood,7679.07,204,37.64
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-15,Pasta,traditionalfood,6671.59,81,82.37
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-15,Pasta,traditionalfood,7149.74,59,121.18
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-15,Burger,fastfood,1999.99,293,6.83
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-15,Pizza,fastfood,7617.19,183,41.62
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-16,Burger,fastfood,5499.56,86,63.95
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-16,Sandwich,fastfood,2833.69,281,10.08
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-16,Salade,healthy,4715.36,269,17.53
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-16,Burger,fastfood,8035.11,255,31.51
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-16,Salade,healthy,5481.83,273,20.08
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-17,Sandwich,fastfood,8369.34,229,36.55
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-17,Pasta,traditionalfood,6934.51,238,29.14
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-17,Steak,traditionalfood,2570.79,211,12.18
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-17,Steak,traditionalfood,9550.41,164,58.23
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-17,Poisson grillé,seafood,2937.41,266,11.04
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-18,Pasta,traditionalfood,5036.35,241,20.9
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-18,Sandwich,fastfood,1662.78,231,7.2
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-18,Poulet rôti,traditionalfood,6511.82,112,58.14
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-18,Pizza,fastfood,7816.69,209,37.4
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-18,Pasta,traditionalfood,4430.32,73,60.69
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-19,Taco,fastfood,6792.43,138,49.22
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-19,Salade,healthy,1564.3,57,27.44
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-19,Sandwich,fastfood,2673.94,60,44.57
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-19,Poisson grillé,seafood,4346.69,138,31.5
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-19,Salade,healthy,1799.34,86,20.92
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-20,Taco,fastfood,8953.2,65,137.74
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-20,Sushi,seafood,1077.39,111,9.71
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-20,Steak,traditionalfood,4052.85,188,21.56
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-20,Sandwich,fastfood,1544.95,276,5.6
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-20,Poulet rôti,traditionalfood,8975.76,196,45.79
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-21,Taco,fastfood,6902.66,259,26.65
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-21,Steak,traditionalfood,1175.77,135,8.71
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-21,Steak,traditionalfood,3895.05,82,47.5
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-21,Pizza,fastfood,4769.7,238,20.04
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-21,Poulet rôti,traditionalfood,2163.59,53,40.82
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-22,Taco,fastfood,2690.99,91,29.57
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-22,Poulet rôti,traditionalfood,2862.47,258,11.09
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-22,Pizza,fastfood,7154.2,290,24.67
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-22,Taco,fastfood,6562.85,76,86.35
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-22,Steak,traditionalfood,3673.72,115,31.95
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-23,Pizza,fastfood,7441.74,139,53.54
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-23,Taco,fastfood,5404.55,50,108.09
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-23,Sandwich,fastfood,2324.63,104,22.35
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-23,Taco,fastfood,9172.17,114,80.46
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-23,Pizza,fastfood,1622.68,175,9.27
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-24,Burger,fastfood,6299.11,272,23.16
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-24,Sushi,seafood,5590.47,143,39.09
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-24,Pasta,traditionalfood,8873.19,224,39.61
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-24,Pasta,traditionalfood,5928.82,152,39.01
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-24,Poisson grillé,seafood,5955.02,193,30.86
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-25,Taco,fastfood,5225.25,216,24.19
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-25,Sandwich,fastfood,5575.69,134,41.61
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-25,Steak,traditionalfood,7998.29,143,55.93
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-25,Sushi,seafood,3791.35,94,40.33
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-25,Burger,fastfood,9732.49,262,37.15
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-26,Poulet rôti,traditionalfood,4256.75,79,53.88
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-26,Taco,fastfood,3291.11,87,37.83
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-26,Sushi,seafood,5313.34,97,54.78
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-26,Poulet rôti,traditionalfood,5519.38,93,59.35
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-26,Sandwich,fastfood,4609.65,75,61.46
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-27,Sushi,seafood,2818.44,132,21.35
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-27,Sushi,seafood,1728.77,227,7.62
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-27,Sandwich,fastfood,8773.91,88,99.7
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-27,Taco,fastfood,2780.21,193,14.41
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-27,Taco,fastfood,1218.56,201,6.06
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-28,Pasta,traditionalfood,7547.81,298,25.33
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-28,Pizza,fastfood,1991.8,265,7.52
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-28,Pizza,fastfood,7571.25,194,39.03
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-28,Burger,fastfood,1379.08,251,5.49
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-28,Pasta,traditionalfood,7386.06,135,54.71
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-29,Taco,fastfood,7991.03,240,33.3
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-29,Burger,fastfood,6405.46,200,32.03
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-29,Steak,traditionalfood,6874.14,183,37.56
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-29,Poulet rôti,traditionalfood,9878.51,193,51.18
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-29,Poisson grillé,seafood,4817.07,136,35.42
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-30,Taco,fastfood,3182.01,50,63.64
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-30,Steak,traditionalfood,2885.51,63,45.8
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-30,Salade,healthy,9887.89,164,60.29
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-30,Sandwich,fastfood,6798.44,248,27.41
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-30,Poulet rôti,traditionalfood,7396.02,194,38.12

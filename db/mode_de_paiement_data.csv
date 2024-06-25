@@ -1,0 +1,151 @@
+Nom,Adresse,Date,Chiffre Affaire,Nombre Commandes,Panier Moyen,Mode de Paiement
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-01,1833.49,93,19.71,PayPal
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-01,5134.95,155,33.13,Carte de crédit
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-01,9475.3,138,68.66,Google Pay
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-01,9371.94,132,71.0,Apple Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-01,2518.96,83,30.35,Google Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-02,4322.28,190,22.75,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-02,1463.85,124,11.81,Chèque
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-02,8244.69,250,32.98,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-02,8432.88,145,58.16,Espèces
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-02,1443.98,290,4.98,Google Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-03,9295.97,269,34.56,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-03,8489.94,293,28.98,Espèces
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-03,1876.52,272,6.9,Chèque
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-03,4019.42,216,18.61,Espèces
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-03,8561.82,294,29.12,Chèque
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-04,6940.39,146,47.54,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-04,8068.13,115,70.16,Chèque
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-04,7345.23,193,38.06,Espèces
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-04,2895.3,260,11.14,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-04,7581.13,258,29.38,Apple Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-05,6765.63,231,29.29,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-05,9767.79,269,36.31,Carte de crédit
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-05,2088.68,112,18.65,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-05,8035.7,264,30.44,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-05,6074.13,285,21.31,Carte de crédit
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-06,1201.2,104,11.55,Chèque
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-06,2450.79,209,11.73,Google Pay
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-06,5965.67,208,28.68,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-06,7315.56,170,43.03,Espèces
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-06,6041.66,138,43.78,Espèces
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-07,6695.95,274,24.44,Chèque
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-07,9636.74,226,42.64,PayPal
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-07,3174.91,117,27.14,Espèces
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-07,1425.74,146,9.77,Apple Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-07,8785.9,149,58.97,Google Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-08,7506.94,98,76.6,PayPal
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-08,3249.82,154,21.1,Google Pay
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-08,1843.05,270,6.83,Chèque
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-08,7354.36,97,75.82,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-08,1532.93,164,9.35,Carte de crédit
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-09,3803.92,224,16.98,Espèces
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-09,2318.72,281,8.25,Espèces
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-09,2127.87,111,19.17,Apple Pay
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-09,4160.94,273,15.24,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-09,2357.36,79,29.84,Chèque
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-10,9699.07,257,37.74,Apple Pay
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-10,7291.31,258,28.26,Chèque
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-10,3481.14,124,28.07,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-10,6143.71,227,27.06,Espèces
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-10,5864.62,284,20.65,PayPal
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-11,5491.66,211,26.03,PayPal
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-11,6223.89,186,33.46,Chèque
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-11,3641.63,138,26.39,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-11,2138.61,139,15.39,PayPal
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-11,5578.64,206,27.08,Carte de crédit
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-12,3012.28,199,15.14,Google Pay
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-12,5713.09,267,21.4,Espèces
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-12,4934.91,81,60.92,Carte de crédit
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-12,1098.54,146,7.52,PayPal
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-12,3206.83,225,14.25,Chèque
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-13,9254.32,263,35.19,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-13,7121.8,274,25.99,Google Pay
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-13,6377.24,296,21.54,Chèque
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-13,1302.08,105,12.4,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-13,2455.7,187,13.13,Chèque
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-14,7507.31,231,32.5,Apple Pay
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-14,4717.59,250,18.87,Google Pay
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-14,8092.25,77,105.09,Apple Pay
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-14,9939.59,83,119.75,Google Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-14,4344.42,77,56.42,Google Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-15,2685.57,247,10.87,PayPal
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-15,9779.85,52,188.07,Carte de crédit
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-15,8295.08,109,76.1,Chèque
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-15,7871.18,298,26.41,Google Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-15,7510.48,254,29.57,Google Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-16,5660.07,236,23.98,Espèces
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-16,4042.36,161,25.11,PayPal
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-16,3732.01,105,35.54,Carte de crédit
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-16,2815.95,204,13.8,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-16,8662.99,251,34.51,Espèces
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-17,9259.3,184,50.32,Chèque
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-17,4855.89,253,19.19,Espèces
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-17,4018.88,155,25.93,Google Pay
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-17,8668.37,274,31.64,Espèces
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-17,7138.22,169,42.24,Espèces
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-18,9537.38,195,48.91,Espèces
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-18,7034.58,261,26.95,Google Pay
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-18,7382.57,296,24.94,Chèque
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-18,5005.36,88,56.88,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-18,2519.94,183,13.77,Carte de crédit
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-19,6808.04,268,25.4,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-19,1652.86,66,25.04,Chèque
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-19,8082.97,199,40.62,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-19,1323.2,120,11.03,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-19,9976.79,271,36.81,Google Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-20,9863.25,259,38.08,PayPal
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-20,8179.99,131,62.44,PayPal
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-20,6038.32,164,36.82,Espèces
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-20,4315.11,111,38.87,Google Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-20,6653.52,151,44.06,Carte de crédit
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-21,8311.53,187,44.45,PayPal
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-21,5690.86,114,49.92,Carte de crédit
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-21,6299.2,137,45.98,Espèces
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-21,1465.98,254,5.77,Google Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-21,4108.81,213,19.29,Google Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-22,3224.84,62,52.01,Espèces
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-22,1645.4,262,6.28,Carte de crédit
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-22,8617.27,205,42.04,Google Pay
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-22,1014.88,229,4.43,Google Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-22,2240.79,271,8.27,PayPal
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-23,7902.33,246,32.12,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-23,8519.09,213,40.0,Espèces
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-23,3998.18,250,15.99,Chèque
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-23,5177.27,226,22.91,Carte de crédit
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-23,5210.76,156,33.4,Espèces
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-24,4233.62,77,54.98,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-24,1387.47,214,6.48,PayPal
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-24,7907.02,271,29.18,Espèces
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-24,7168.36,213,33.65,Google Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-24,9438.82,53,178.09,Espèces
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-25,3442.0,54,63.74,Apple Pay
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-25,8743.75,164,53.32,Apple Pay
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-25,1238.72,122,10.15,Espèces
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-25,8158.22,259,31.5,PayPal
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-25,5105.14,186,27.45,PayPal
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-26,8187.39,248,33.01,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-26,9180.49,106,86.61,PayPal
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-26,1082.6,62,17.46,Apple Pay
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-26,3761.66,192,19.59,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-26,1380.92,269,5.13,Espèces
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-27,6430.42,202,31.83,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-27,8167.7,59,138.44,Espèces
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-27,2411.17,63,38.27,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-27,8436.22,274,30.79,Apple Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-27,7000.94,55,127.29,Apple Pay
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-28,6296.71,245,25.7,PayPal
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-28,9364.26,224,41.8,Google Pay
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-28,7905.12,166,47.62,Espèces
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-28,2102.82,73,28.81,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-28,9921.7,241,41.17,Espèces
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-29,9263.76,97,95.5,Carte de crédit
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-29,9317.82,183,50.92,PayPal
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-29,1384.87,218,6.35,Chèque
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-29,6010.7,111,54.15,Chèque
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-29,7194.56,177,40.65,Carte de crédit
+Le Bernardin,"155 W 51st St, New York, NY 10019, USA",2024-06-30,9708.72,227,42.77,Chèque
+Noma,"Refshalevej 96, 1432 København, Denmark",2024-06-30,3509.95,243,14.44,Carte de crédit
+Osteria Francescana,"Via Stella, 22, 41121 Modena MO, Italy",2024-06-30,8746.11,76,115.08,PayPal
+El Celler de Can Roca,"Carrer de Can Sunyer, 48, 17007 Girona, Spain",2024-06-30,6060.85,262,23.13,Apple Pay
+Mirazur,"30 Av. Aristide Briand, 06500 Menton, France",2024-06-30,8079.36,128,63.12,Espèces
