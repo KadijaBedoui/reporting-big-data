@@ -1,0 +1,78 @@
+.dashboard-container {
+    padding: 0px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+  
+  .stat-cards-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5px;
+    margin-top: 20px ;
+  }
+  
+  .chart-section {
+    width: 70%;
+    margin: 0 auto;
+    height: 70%;
+  }
+  
+  .stat-card, .total-orders-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 390px;
+  }
+  
+  .stat-card .title, .total-orders-card .title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .stat-card .value, .total-orders-card .value {
+    font-size: 2em;
+    color: #4caf50;
+  }
+  
+  .stat-card .icon, .total-orders-card .icon {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+  
+  .doughnut-chart-container {
+    width: 50%;  /* Set width relative to parent */
+    max-width: 200px;  /* Set maximum width */
+    margin-left: 2%;  /* Adjust left margin */
+    font-size: small;  /* Adjust font size */
+    display: flex;  /* Use flex to align items within the container */
+    justify-content: center;  /* Center content horizontally */
+    align-items: center;  /* Center content vertically */
+    
+}
+  
+  
+  
+  .doughnut-chart-title {
+    margin-top: 5%;
+    font-size: 1em; /* Adjust the size as needed */
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #807878; /* Adjust the color as needed */
+  }
+  
+  .chart {
+    width: 100%;  /* Make chart take full width of the container */
+    height: 100%;  /* Make chart take full height of the container */
+    max-width: 100%;  /* Ensure chart does not exceed container width */
+    max-height: 100%;  /* Ensure chart does not exceed container height */
+  }
+  

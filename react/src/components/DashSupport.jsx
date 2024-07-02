@@ -1,14 +1,24 @@
 import React, { useEffect, useState } from "react";
 import { Line } from "react-chartjs-2";
 
+import TotalOrdersCard from "./StatCard/TotalOrdersCard";
+import StatCard from "./StatCard/StatCard";
+import { DoughnutChart } from "./DoughnutChart";
+import DoughnutCardP from "./DoughnutCardP";
+import PanierCard from "./PanierCard";
+import { FaMoneyBillWave, FaShoppingCart } from "react-icons/fa";
+
 import "chart.js/auto";
+import "./DashSupport.css";
 
 const DashSupport = () => {
   const [chartData, setChartData] = useState(null);
+  const [totalChiffreAffaire, setTotalChiffreAffaire] = useState(0);
+  const [totalCommandes, setTotalCommandes] = useState(0);
 
   useEffect(() => {
     fetch("http://127.0.0.1:5000/api/sale-supports")
-      .then(response => response.json())
+      .then((response) => response.json())
       .then((response) => {
         processChartData(response);
       })
@@ -17,9 +27,8 @@ const DashSupport = () => {
 
   const processChartData = (data) => {
     if (data.length === 0) return;
-console.log(data)
-    const dates = [...new Set(data.map((item) => item.Date.split("T")[0]))]; 
-    // Assumes dates are in ISO format
+
+    const dates = [...new Set(data.map((item) => item.Date.split("T")[0]))];
     const kioskData = data.filter(
       (item) => item["Support de Vente"] === "Kiosk"
     );
@@ -27,6 +36,15 @@ console.log(data)
       (item) => item["Support de Vente"] === "Application C&C"
     );
     const posData = data.filter((item) => item["Support de Vente"] === "POS");
+
+    const totalChiffreAffaire = data.reduce(
+      (total, item) => total + item.ChiffreAffaire,
+      0
+    );
+    const totalCommandes = data.length;
+
+    setTotalChiffreAffaire(totalChiffreAffaire);
+    setTotalCommandes(totalCommandes);
 
     const chartData = {
       labels: dates,
@@ -72,74 +90,68 @@ console.log(data)
 
     setChartData(chartData);
   };
-  
+
+  const options = {
+    scales: {
+      x: {
+        title: {
+          display: true,
+          text: "Dates",
+        },
+      },
+      y: {
+        title: {
+          display: true,
+          text: "Chiffre d'Affaire (en Euros)",
+        },
+        ticks: {
+          callback: function (value) {
+            return value + " €";
+          },
+        },
+      },
+    },
+  };
+
   return (
-    <div className="DashSupport">
-      <h1>Sales Dashboard</h1>
-      {chartData !== null ? <Line data={chartData} /> : <p>Loading chart data...</p>}
+    <div className="dashboard-container">
+      <div className="stat-cards-container">
+        <StatCard
+          title="Chiffre d'Affaire"
+          value={`€ ${totalChiffreAffaire.toLocaleString()}`}
+          icon={<FaMoneyBillWave />}
+        />
+        <TotalOrdersCard
+          title="Total des Commandes"
+          value={totalCommandes}
+          icon={<FaShoppingCart />}
+        />
+        <PanierCard
+          title="Total des Commandes"
+          value={totalCommandes}
+          icon={<FaShoppingCart />}
+        />
+      </div>
+      <div className="header">
+        <h1>Sales Dashboard</h1>
+      </div>
+      <div className="chart-section">
+        {chartData !== null ? (
+          <Line data={chartData} options={options} />
+        ) : (
+          <p>Loading chart data...</p>
+        )}
+      </div>
+      <div className="row">
+        <div className="doughnut-chart-container col">
+          <DoughnutChart className="chart" />
+        </div>
+        <div className="doughnut-chart-container col">
+          <DoughnutCardP className="chart" />
+        </div>
+      </div>
     </div>
   );
 };
 
 export default DashSupport;
-
-/* import React, { useEffect, useState } from 'react';
-import axios from 'axios';
-import { Line } from 'react-chartjs-2';
-import 'chart.js/auto';
-
-const DashSupport = () => {
-  const [data, setData] = useState([]);
-  const [kioskData, setKioskData] = useState([]);
-  const [appCncData, setAppCncData] = useState([]);
-  const [posData, setPosData] = useState([]);
-
-  useEffect(() => {
-    axios.get('http://127.0.0.1:5000/api/top-supports')
-      .then(response => {
-        setData(response.data);
-        processChartData(response.data);
-      })
-      .catch(error => console.error('Error fetching the data:', error));
-  }, []);
-
-  const processChartData = (data) => {
-    const kiosk = data.filter(item => item['Support de Vente'] === 'Kiosk');
-    const appCnc = data.filter(item => item['Support de Vente'] === 'Application C&C');
-    const pos = data.filter(item => item['Support de Vente'] === 'POS');
-
-    setKioskData(kiosk);
-    setAppCncData(appCnc);
-    setPosData(pos);
-  };
-
-  const generateChartData = (supportData) => {
-    return {
-      labels: supportData.map(item => item.Date.split('T')[0]), // Assuming the date is in ISO format
-      datasets: [
-        {
-          label: 'Chiffre d\'Affaire',
-          data: supportData.map(item => item.ChiffreAffaire),
-          fill: false,
-          backgroundColor: 'rgba(75,192,192,0.4)',
-          borderColor: 'rgba(75,192,192,1)',
-        }
-      ]
-    };
-  };
-
-  return (
-    <div className="DashSupport">
-      <h1>Sales Dashboard</h1>
-      <h2>Kiosk Sales</h2>
-      <Line data={generateChartData(kioskData)} />
-      <h2>Application C&C Sales</h2>
-      <Line data={generateChartData(appCncData)} />
-      <h2>POS Sales</h2>
-      <Line data={generateChartData(posData)} />
-    </div>
-  );
-}
-
-export default DashSupport;
- */
