@@ -6,19 +6,21 @@ const StatCard = ({ title, url, valueKey, icon }) => {
   const [value, setValue] = useState(0);
 
   useEffect(() => {
+    const processApiData = (data) => {
+      if (data.length === 0) return;
+      const totalValue = data.reduce((total, item) => total + item[valueKey], 0);
+      setValue(totalValue);
+    };
+
     fetch(url)
       .then((response) => response.json())
       .then((data) => {
         processApiData(data);
       })
       .catch((error) => console.error("Error fetching the data:", error));
-  }, [url]);
+  }, [url, valueKey]);
 
-  const processApiData = (data) => {
-    if (data.length === 0) return;
-    const totalValue = data.reduce((total, item) => total + item[valueKey], 0);
-    setValue(totalValue);
-  };
+  
 
   return (
     <div className="stat-card">

@@ -16,28 +16,28 @@ const DashSupportS = () => {
   const [panierMoyen, setPanierMoyen] = useState(0);
 
   useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const [revenueRes, ordersRes, basketRes] = await Promise.all([
+          fetch("http://127.0.0.1:5000/api/daily-revenue"),
+          fetch("http://127.0.0.1:5000/api/total-orders-by-service"),
+          fetch("http://127.0.0.1:5000/api/average-basket-by-service")
+        ]);
+  
+        const revenueData = await revenueRes.json();
+        const ordersData = await ordersRes.json();
+        const basketData = await basketRes.json();
+  
+        processChartData(revenueData);
+        processTotalOrders(ordersData);
+        processAverageBasket(basketData);
+      } catch (error) {
+        console.error("Error fetching the data:", error);
+      }
+    };
+
     fetchData();
   }, []);
-
-  const fetchData = async () => {
-    try {
-      const [revenueRes, ordersRes, basketRes] = await Promise.all([
-        fetch("http://127.0.0.1:5000/api/daily-revenue"),
-        fetch("http://127.0.0.1:5000/api/total-orders-by-service"),
-        fetch("http://127.0.0.1:5000/api/average-basket-by-service")
-      ]);
-
-      const revenueData = await revenueRes.json();
-      const ordersData = await ordersRes.json();
-      const basketData = await basketRes.json();
-
-      processChartData(revenueData);
-      processTotalOrders(ordersData);
-      processAverageBasket(basketData);
-    } catch (error) {
-      console.error("Error fetching the data:", error);
-    }
-  };
 
   const processChartData = (data) => {
     if (data.length === 0) return;
