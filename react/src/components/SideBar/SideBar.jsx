@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import {
   FaBook, FaHeart,
   FaAngleDown, FaAngleUp, FaHeadset, FaConciergeBell, FaBox, FaExchangeAlt, FaCreditCard, FaTags, FaUserTie
 } from 'react-icons/fa';
-
 import './SideBar.css';
 
 const SideBar = () => {
@@ -16,9 +16,7 @@ const SideBar = () => {
   return (
     <div className={`sidebar ${isExpanded ? 'expanded' : 'collapsed'}`}>
       <div className="sidebar-header">
-        <div className="sidebar-logo">
-          
-        </div>
+        <div className="sidebar-logo"></div>
         <div className="sidebar-title">
           {isExpanded && <h1>Aures Group </h1>}
         </div>
@@ -28,48 +26,47 @@ const SideBar = () => {
           <div className="section-title">
             <span>General</span>
           </div>
-          <div className="section-item">
+          <Link to="/support-vente" className="section-item">
             <FaHeadset />
             {isExpanded && <span>Support de Vente</span>}
-          </div>
-          <div className="section-item">
+          </Link>
+          <Link to="/service" className="section-item">
             <FaConciergeBell />
             {isExpanded && <span>Service</span>}
-          </div>
-          <div className="section-item">
+          </Link>
+          <Link to="/produit" className="section-item">
             <FaBox />
             {isExpanded && <span>Produit</span>}
-          </div>
-          <div className="section-item">
+          </Link>
+          <Link to="/mode-vente" className="section-item">
             <FaExchangeAlt />
             {isExpanded && <span>Mode de Vente</span>}
-          </div>
-          <div className="section-item">
+          </Link>
+          <Link to="/mode-paiement" className="section-item">
             <FaCreditCard />
             {isExpanded && <span>Mode de Paiement</span>}
-          </div>
-          <div className="section-item">
+          </Link>
+          <Link to="/familles-produits" className="section-item">
             <FaTags />
             {isExpanded && <span>Familles Produits</span>}
-          </div>
-          <div className="section-item">
+          </Link>
+          <Link to="/employeur" className="section-item">
             <FaUserTie />
             {isExpanded && <span>Employeur</span>}
-          </div>
+          </Link>
         </div>
         <div className="sidebar-section">
           <div className="section-title">
             <span>Extra</span>
           </div>
-          
-          <div className="section-item">
+          <Link to="/forecast" className="section-item">
             <FaBook />
             {isExpanded && <span>Forecast</span>}
-          </div>
-          <div className="section-item">
+          </Link>
+          <Link to="/views" className="section-item">
             <FaHeart />
             {isExpanded && <span>Views</span>}
-          </div>
+          </Link>
         </div>
       </div>
       <div className="sidebar-footer">
