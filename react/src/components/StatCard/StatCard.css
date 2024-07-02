@@ -1,0 +1,60 @@
+.stat-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .card-icon {
+    font-size: 2em;
+    color: #4CAF50;
+  }
+  
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  .card-title {
+    font-size: 1em;
+    color: #333;
+  }
+  
+  .card-value {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #4CAF50;
+  }
+  
+/* Style du changement (peut-être pour les fluctuations ou les tendances) */
+.card-change {
+    font-size: 16px; /* Taille de la police */
+    margin-top: 10px; /* Marge haute */
+}
+
+/* Style pour le texte indiquant un succès */
+.text-success {
+    color: #1eb980; /* Couleur verte pour le succès */
+    
+}
+
+
+/* Style pour le texte indiquant un danger ou une alerte */
+.text-danger {
+    color: #e74c3c; /* Couleur rouge pour le danger */
+}
+
+/* Ajustements de taille pour l'icône et le titre */
+.card-icon {
+    font-size: 30px; /* Nouvelle taille de la police pour l'icône */
+}
+
+.card-title {
+    font-size: 20px; /* Nouvelle taille de la police pour le titre */
+}
